@@ -1,0 +1,15 @@
+/Users/carlyn/Projects/Week14OOP/Week14OOP/bin/Debug/net6.0/Week14OOP
+/Users/carlyn/Projects/Week14OOP/Week14OOP/bin/Debug/net6.0/Week14OOP.deps.json
+/Users/carlyn/Projects/Week14OOP/Week14OOP/bin/Debug/net6.0/Week14OOP.runtimeconfig.json
+/Users/carlyn/Projects/Week14OOP/Week14OOP/bin/Debug/net6.0/Week14OOP.dll
+/Users/carlyn/Projects/Week14OOP/Week14OOP/bin/Debug/net6.0/Week14OOP.pdb
+/Users/carlyn/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.csproj.AssemblyReference.cache
+/Users/carlyn/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlyn/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.AssemblyInfoInputs.cache
+/Users/carlyn/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.AssemblyInfo.cs
+/Users/carlyn/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.csproj.CoreCompileInputs.cache
+/Users/carlyn/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.dll
+/Users/carlyn/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/refint/Week14OOP.dll
+/Users/carlyn/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.pdb
+/Users/carlyn/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.genruntimeconfig.cache
+/Users/carlyn/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/ref/Week14OOP.dll
